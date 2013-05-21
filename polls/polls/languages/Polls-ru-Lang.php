@@ -1,0 +1,29 @@
+<?php
+
+    $lang['polls_name'] = 'Опросы';
+    $lang['polls_add'] = '+ Добавить опрос';
+    $lang['polls_creating'] = 'Создание нового опроса';
+    $lang['polls_edit'] = 'Редактирование опроса';
+    $lang['polls_question'] = 'Задайте вопрос';
+    $lang['polls_answers'] = 'Варианты ответов (1 ответ - 1 строчка)';
+    $lang['polls_answer'] = ' ответ: ';
+    $lang['polls_add_answer'] = 'Добавить ответ';
+    $lang['polls_type_one'] = 'Radio (только один ответ)';
+    $lang['polls_type_many'] = 'Checkbox (можно выбрать несколько ответов)';
+    $lang['polls_save'] = 'Сохранить';
+    $lang['polls_vote_submit'] = 'Голосовать';
+    $lang['polls_test_question'] = 'Вам нравится наш сайт?';
+    $lang['polls_test_yes'] = 'Да';
+    $lang['polls_test_no'] = 'Нет';
+    $lang['polls_test_question2'] = 'Ваш любимый цвет';
+    $lang['polls_test_white'] = 'Белый';
+    $lang['polls_test_black'] = 'Черный';
+    $lang['polls_test_green'] = 'Зеленый';
+    $lang['polls_default'] = 'Назначить по умолчанию';
+    $lang['polls_for_template'] = 'для шаблонов';
+    $lang['polls_to_page'] = 'на страницу';
+    $lang['polls_show_random'] = 'Вывод случайного опроса';
+    $lang['polls_show_all'] = 'Вывод всех опросов';
+    $lang['polls_show_default'] = 'Вывод опроса по умолчанию';
+    $lang['polls_date'] = 'Дата';
+    $lang['polls_table_question'] = 'Вопрос';

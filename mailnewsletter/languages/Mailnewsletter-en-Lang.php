@@ -1,0 +1,29 @@
+<?php
+
+    $lang['mailnewsletter_submenu']  = 'Mail newsletter';
+    $lang['mailnewsletter_subscribers']  = 'Subscribers';
+    $lang['mailnewsletter_subscribe']  = 'Subscriber';
+    $lang['mailnewsletter_new_subscriber']  = 'New subscriber (email)';    
+    $lang['mailnewsletter_email']  = 'Email';        
+    $lang['mailnewsletter_new_subscriber_add']  = 'Add subscriber';
+    $lang['mailnewsletter_recipients']  = 'Recipients';        
+    $lang['mailnewsletter_message']  = 'Message';
+    $lang['mailnewsletter_send']  = 'Send and save';
+    $lang['mailnewsletter_subject']  = 'Subject';
+    $lang['mailnewsletter_sender']  = 'Sender';
+    $lang['mailnewsletter_save_options']  = 'Save';
+    $lang['mailnewsletter_options']  = 'Options';
+    $lang['mailnewsletter_unsubscribe_done']  = 'You have unsubscribed from the mailing';   
+    $lang['mailnewsletter_add']      = 'Add';
+    $lang['mailnewsletter_date']     = 'Date';
+    $lang['mailnewsletter_delete']   = 'Delete';
+    $lang['mailnewsletter_select_all']   = 'Select all';
+    $lang['mailnewsletter_delete_all']   = 'Delete all';
+    $lang['mailnewsletter_letters']   = 'Letters';
+    $lang['mailnewsletter_letter']   = 'Letter';
+    $lang['mailnewsletter_save']  = 'Save';
+    $lang['mailnewsletter_done_successful']  = 'Done successful';
+    $lang['mailnewsletter_new_letter']  = 'New letter';  
+    $lang['mailnewsletter_subscribers_count']  = 'Subscribers';  
+    $lang['mailnewsletter_letters_delete_all']  = 'Delete all';     
+    $lang['mailnewsletter_invalid_email']  = 'Invalid Email Address';

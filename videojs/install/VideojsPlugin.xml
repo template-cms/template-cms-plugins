@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plugin_location>plugins/videojs/VideojsPlugin.php</plugin_location>
+    <plugin_frontend>yes</plugin_frontend>
+    <plugin_backend>yes</plugin_backend>
+    <plugin_status>active</plugin_status>
+    <plugin_priority>10</plugin_priority>
+    <plugin_name>VideoJS</plugin_name>
+    <plugin_description>Video.js is the most widely used HTML5 Video Player available.</plugin_description>
+    <plugin_version>1.0.0</plugin_version>
+    <plugin_author>Awilum</plugin_author>
+    <plugin_author_uri>http://template-cms.ru/</plugin_author_uri>
+</root>

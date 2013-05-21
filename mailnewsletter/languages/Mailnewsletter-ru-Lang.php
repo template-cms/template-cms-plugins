@@ -1,0 +1,29 @@
+<?php
+
+    $lang['mailnewsletter_submenu']  = 'Рассылка';
+    $lang['mailnewsletter_subscribers']  = 'Подписчики';
+    $lang['mailnewsletter_subscribe']  = 'Подписаться';
+    $lang['mailnewsletter_new_subscriber']  = 'Новый подписчик (email)';    
+    $lang['mailnewsletter_email']  = 'Емейл';        
+    $lang['mailnewsletter_new_subscriber_add']  = 'Добавить подписчика';
+    $lang['mailnewsletter_recipients']  = 'Получатели';        
+    $lang['mailnewsletter_message']  = 'Сообщение';
+    $lang['mailnewsletter_send']  = 'Отправить и сохранить';
+    $lang['mailnewsletter_subject']  = 'Тема';
+    $lang['mailnewsletter_sender']  = 'Отправитель';
+    $lang['mailnewsletter_save_options']  = 'Сохранить';
+    $lang['mailnewsletter_options']  = 'Настройки';
+    $lang['mailnewsletter_unsubscribe_done']  = 'Вы отписались от рассылки';   
+    $lang['mailnewsletter_add']      = 'Добавить';
+    $lang['mailnewsletter_date']     = 'Дата';
+    $lang['mailnewsletter_delete']   = 'Удалить';
+    $lang['mailnewsletter_select_all']   = 'Выбрать всех';
+    $lang['mailnewsletter_delete_all']   = 'Удалить всех';
+    $lang['mailnewsletter_letters']   = 'Письма';
+    $lang['mailnewsletter_letter']   = 'Письмо';
+    $lang['mailnewsletter_save']  = 'Сохранить';
+    $lang['mailnewsletter_done_successful']  = 'Выполнено успешно';
+    $lang['mailnewsletter_new_letter']  = 'Новое письмо';  
+    $lang['mailnewsletter_subscribers_count']  = 'Подписчиков всего';
+    $lang['mailnewsletter_letters_delete_all']  = 'Удалить все';     
+    $lang['mailnewsletter_invalid_email']  = 'Неправильный емейл';

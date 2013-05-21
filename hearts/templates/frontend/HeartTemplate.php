@@ -1,0 +1,3 @@
+<a href="javascript:;" class="heart" onclick="heartClick('<?php echo $heart[0]->uid; ?>');" rel="<?php echo $heart[0]->uid ?>">
+<img src="<?php echo getOption('siteurl'); ?>plugins/hearts/img/<?php echo $heart_img; ?>" class="image_<?php echo $heart[0]->uid; ?>" alt="heart" width="12" height="12" /></a>
+<span class="counter_<?php echo $heart[0]->uid ?>" style="font-size:14px; color:#ccc; font-weight:bold;"><?php echo $heart[0]->counter; ?></span>
